@@ -5,7 +5,7 @@ You are given an array A of length N and Q queries given by the 2D array B of si
  For every query, your task is to find the count of even numbers in the range from A[B[i][0]] to A[B[i][1]].
 
  Input
- A = [1, 2, 3, 4, 5]
+ A = [1, 2, 3, 4, 5],
  B = [[0, 2] 
          [2, 4]
          [1, 4]]
@@ -14,7 +14,7 @@ You are given an array A of length N and Q queries given by the 2D array B of si
  [1,1,2]
 
  Input
- A = [2, 1, 8, 3, 9, 6]
+ A = [2, 1, 8, 3, 9, 6],
  B = [[0, 3]
          [3, 5]
          [1, 3]
